@@ -24,6 +24,7 @@ audio compression:
 mp3 = lossy
 wav = lossless
 
+Reasons for compression:
 save file space 
 faster upload
 faster download
@@ -45,10 +46,10 @@ Drivers help devices communicate with eachother (GPU/Printer drivers)
 
 
 speed:
-Registers
-Cache
-RAM: Used to store software currently in use
-ROM
+Registers (volatile)
+Cache (volatile)
+RAM: Used to store software currently in use (volatile)
+ROM (non-volatile) Holds BIOS
 
 BIOS(Basic-Input-Output-System)
 
