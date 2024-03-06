@@ -1,5 +1,14 @@
 Bus/Star topology:
 
+Bus has a server connected to a main cable(bus) which reaches all devices connecting them to the server
+
+Less cables/ cheaper to install
+Easier to add more devices
+
+Data traffic slow down response time
+If main cable fails whole network fails
+Any device can veiw all data on the cable creating a security risk
+
 Star has a server connected to a hub or switch which reaches all devices on the network
 Switch directs information
 Hub broadcasts information to all
