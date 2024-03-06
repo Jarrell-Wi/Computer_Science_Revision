@@ -1,3 +1,15 @@
+Bus/Star topology:
+
+Star has a server connected to a hub or switch which reaches all devices on the network
+Switch directs information
+Hub broadcasts information to all
+
+Fast data transfer because devices dont share wires
+If one cable fails other devices are not affected
+
+Requires additional hardware such as central switch/network cables
+If the central switch fails the whole network goes down
+
 PAN = Personal area network
 
 
