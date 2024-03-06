@@ -1,6 +1,25 @@
 PAN = Personal area network
+
+
 LAN = Local area network
+operates on a single site such as a school building, hotel or business using their own cabling system
+Simple to set up at a low cost and uses high speed connection
+Small area
+
+
 WAN = Wide area network
+
+Advantages and disadvantages of networks:
+
+Computers can share resources such as printers
+Files can be accessed from any computer in the network
+Data is easy to back-up as it is stroed centrally on the server
+
+Network hardware is expensive
+Managing a large network is complicated
+Viruses can infiltrate and infect every computer
+
+
 http/s = hyper text transfer protocal/secure
 https = hyper text transfer protocal
 protocal = Set of rules
@@ -58,9 +77,6 @@ ALU: Arithnatic and logical calculations
 CU: Handles commands being loaded to CPU and decodes commands and controls data flow through CPU
 Registers: Small fast circuits for CPU to store calculations or instructions inside it 
 
-
-
-
-
 Vonn Newman architecture shows primary storage is need to store programs that are
 currently running and need to be accessed by the cpu
+
