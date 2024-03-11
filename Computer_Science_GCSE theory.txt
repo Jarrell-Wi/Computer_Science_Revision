@@ -67,6 +67,10 @@ SMTP = Simple Mail Transfer protocal
 User > Mail Server > Internet > Mail Server > Recipent
     SMTP          SMTP        SMTP      POP/IMAP
 
+TCP = Transmission Control Protocol
+
+IP = Internet Protocol
+
 POP(Post office protocal) = Will download every new message to your local device and with them no longer being available on the server by default unless changed
 Similar to sending a letter through a post office
 
