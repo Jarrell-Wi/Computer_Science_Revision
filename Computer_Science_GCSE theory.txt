@@ -48,6 +48,8 @@ When an email is sent from a computer it willl first be sent to a mail server us
 When it reaches the destination the mail is then stored
 The user's computer uses POP or IMAP to access the email
 
+SMTP = Simple Mail Transfer protocal
+
 User > Mail Server > Internet > Mail Server > Recipent
     SMTP          SMTP        SMTP      POP/IMAP
 
