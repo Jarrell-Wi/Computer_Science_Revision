@@ -44,6 +44,20 @@ secure encrypts information to avoid eavesdropping
 FTP/s = File transfer protocal/secure
 Used for sending/recieving files from FTP server
 
+Application layer
+ - encodes/decodes the message in a form that is understood by the sender and the recipient.
+
+Transport layer
+ - breaks down the message into small chunks (packets). Each packet is given a packet number and the total number of packets. The recipient uses this information to assemble the packets together in the correct order. 
+It also allows the recipient to see if there are any missing packets.
+
+Network layer
+ - adds the sender’s IP address
+ and that of the recipient. The network then knows where to send the message, and where it came from.
+
+Link layer
+ - enables the transfer of packets between nodes on a network, and between one network and another. 
+
 When an email is sent from a computer it willl first be sent to a mail server using the SMTP protocal
 When it reaches the destination the mail is then stored
 The user's computer uses POP or IMAP to access the email
