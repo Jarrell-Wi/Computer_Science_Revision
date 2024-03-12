@@ -1,0 +1,25 @@
+protocal = Set of rules
+
+image file szie:
+
+resolution x colour depth = File size in bits
+
+sound file size:
+
+hertz = amount of times sound is sampled per second
+
+time(s) x resolution(bits) x hertz = File size in bits
+
+image compression:
+Jpeg = lossy
+Png = lossless
+
+audio compression:
+mp3 = lossy
+wav = lossless
+
+Reasons for compression:
+save file space 
+faster upload
+faster download
+Less storage intensive

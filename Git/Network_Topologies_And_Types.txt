@@ -1,0 +1,39 @@
+Bus/Star topology:
+
+Bus has a server connected to a main cable(bus) which reaches all devices connecting them to the server
+
+Less cables/ cheaper to install
+Easier to add more devices
+
+Data traffic slow down response time
+If main cable fails whole network fails
+Any device can veiw all data on the cable creating a security risk
+
+Star has a server connected to a hub or switch which reaches all devices on the network
+Switch directs information
+Hub broadcasts information to all
+
+Fast data transfer because devices dont share wires
+If one cable fails other devices are not affected
+
+Requires additional hardware such as central switch/network cables
+If the central switch fails the whole network goes down
+
+PAN = Personal area network
+
+LAN = Local area network
+
+WAN = Wide area network
+
+Advantages and disadvantages of networks:
+
+
+Computers can share resources such as printers
+Files can be accessed from any computer in the network
+Data is easy to back-up as it is stroed centrally on the server
+
+
+
+Network hardware is expensive
+Managing a large network is complicated
+Viruses can infiltrate and infect every computer
