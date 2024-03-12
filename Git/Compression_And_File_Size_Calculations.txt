@@ -1,4 +1,3 @@
-protocal = Set of rules
 
 image file szie:
 
